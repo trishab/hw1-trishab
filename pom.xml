@@ -96,7 +96,7 @@
     </dependency>
   </dependencies>
   <scm>
-  	<connection>scm:git:git@github.com:trishhab/hw1-trishab.git</connection>
-  	<developerConnection>scm:git:git@github.com:trishhab/hw1-trishab.git</developerConnection>
+  	<connection>scm:git:git@github.com:trishab/hw1-trishab.git</connection>
+  	<developerConnection>scm:git:git@github.com:trishab/hw1-trishab.git</developerConnection>
   </scm>
 </project>
